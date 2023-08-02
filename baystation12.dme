@@ -896,6 +896,7 @@
 #include "code\game\objects\effects\spawners\gibspawner.dm"
 #include "code\game\objects\effects\spawners\guns.dm"
 #include "code\game\objects\items\apc_frame.dm"
+#include "code\game\objects\items\ascent.dm"
 #include "code\game\objects\items\blueprints.dm"
 #include "code\game\objects\items\bodybag.dm"
 #include "code\game\objects\items\buttons.dm"
